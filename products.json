@@ -30,6 +30,12 @@
         "image": "images/product1.png"
     },
     {
+        "id": "5",
+        "name": "rohith 5",
+        "price": "$250.00",
+        "image": "images/product2.png"
+    },
+    {
         "id": "9",
         "name": "kavin 3",
         "price": "$20.00",
