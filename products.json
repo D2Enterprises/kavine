@@ -5,6 +5,12 @@
         "price": "$10.00",
         "image": "images/product1.png"
     },
+        {
+        "id": "1",
+        "name": "thiru 1",
+        "price": "$10.00",
+        "image": "images/product1.png"
+    },
     {
         "id": "2",
         "name": "Product 2",
